@@ -6,6 +6,7 @@
 3. execute command -$ pyinstaller filename.py
 ## pyinstaller filename.py
 *filename is the name of your python file
+
 5. go to the dist folder
 6. goto the filename folder 
 7. find filename.exe 
