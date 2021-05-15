@@ -5,7 +5,7 @@
 2. open terminal in the file location
 3. execute command -$ pyinstaller filename.py
 ## pyinstaller filename.py
-*filename is the name of your python file
+* filename is the name of your python file
 
 5. go to the dist folder
 6. goto the filename folder 
